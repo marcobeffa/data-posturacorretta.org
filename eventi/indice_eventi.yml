@@ -1,13 +1,12 @@
 ---
 eventi:
-  -
-    id: "0001"
+  1:
     authors: 
-    -
-      id: "01"
-      name: "Mark Postura"
-      image_avatar: "https://markpostura.it/images/pic01.jpg"
-      link: "https://markpostura.it/"
+      1:
+        id: "01"
+        name: "Mark Postura"
+        image_avatar: "https://markpostura.it/images/pic01.jpg"
+        link: "https://markpostura.it/"
     date_time_start: "2021-04-09 15:00:42.077437 +0200"
     date_time_end: "2021-04-09 16:00:42.077437 +0200"
     image_cover_link: "https://static.remove.bg/remove-bg-web/a6c5f1017e9c0bdc648aad9debd2f40a17d45814/assets/start-0e837dcc57769db2306d8d659f53555feb500b3c5d456879b9c843d1872e7baa.jpg"
