@@ -5,7 +5,7 @@ journey:
   author: "Mark Postura"
   image_tag: "home/mark_postura.png"
 
-  file_chapters:
+  file_steps:
     1:
       date_last_release:
       header: true
