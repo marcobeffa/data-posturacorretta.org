@@ -23,5 +23,5 @@ journey:
       link_github: 001_002_la_salute_come_un_viaggio
       author:
       image_tag:
-      link_posturacorretta: http://localhost:5000/contents/1
+      id_content: 1
    
